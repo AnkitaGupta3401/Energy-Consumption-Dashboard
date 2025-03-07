@@ -51,7 +51,7 @@ Prerequisites
 Contributions are welcome! If you'd like to improve the dashboard, feel free to submit a pull request.
 
 📜 License
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License.
 
 📬 Contact
 For any questions or suggestions, feel free to reach out:
@@ -59,5 +59,5 @@ For any questions or suggestions, feel free to reach out:
 📌 GitHub: [your-username](https://github.com/your-username)
 
 ---
-🚀 Let's build smarter energy solutions with data-driven insights!**
+🚀 Let's build smarter energy solutions with data-driven insights!
 
